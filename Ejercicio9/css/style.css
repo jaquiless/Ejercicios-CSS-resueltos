@@ -1,0 +1,18 @@
+.contenedor {
+  width: 250px;
+  height: auto;
+  padding: 50px;
+  margin: 50px;
+  border-top-width: medium;
+  border-top-color: green;
+  border-top-style: dotted;
+  border-bottom-color: red;
+  border-bottom-width: 3px;
+  border-bottom-style: solid;
+  border-right-color: blue;
+  border-right-width: 4px;
+  border-right-style: dashed;
+  border-left-color: black;
+  border-left-width: 5px;
+  border-left-style: double;
+}
