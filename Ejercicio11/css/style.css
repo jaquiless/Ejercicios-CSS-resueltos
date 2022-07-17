@@ -1,0 +1,62 @@
+h2 {
+  text-align: center;
+  align-items: center;
+  background-color: rgb(0, 140, 255);
+  height: 30px;
+  width: 200px;
+  margin-bottom: 0px;
+}
+body {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 0px;
+  padding-top: 0px;
+}
+#tabla {
+  margin-top: 0px;
+  text-align: center;
+  background-color: bisque;
+  width: 500px;
+  height: 150px;
+  padding: 2px;
+  padding-bottom: 0px;
+  border-style: solid;
+  border-width: 6px;
+  border-color: black;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+}
+#D1,
+#D2,
+#D3 {
+  font-weight: bold;
+  font-size: 18px;
+  height: 1px;
+}
+#A1,
+#A2,
+#A3,
+#B1,
+#B2,
+#B3,
+#C1,
+#C2,
+#C3 {
+  border-color: black;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  border-left-width: 1px;
+  border-bottom-width: 3px;
+  border-spacing: 1;
+  height: 1px;
+}
+#iva {
+  background-color: rgb(0, 140, 255);
+  margin: 1px;
+  padding: 1px;
+  height: 1px;
+  font-weight: bold;
+  font-size: 19px;
+}
