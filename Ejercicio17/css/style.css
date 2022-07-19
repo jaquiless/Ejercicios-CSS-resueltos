@@ -1,0 +1,31 @@
+header {
+  background-color: #fe0000;
+  height: 80px;
+  width: 100%;
+  clear: both;
+}
+nav {
+  background-color: #007fff;
+  height: 25px;
+  width: 100%;
+  clear: both;
+}
+section {
+  background-color: #fec6c5;
+  height: 400px;
+  width: 60vw;
+  float: left;
+  
+}
+aside {
+  background-color: #fe80fe;
+  height: 400px;
+ width: 35vw;
+ float: right;
+
+}
+footer {
+  background-color: #80ff00;
+  height: 25px;
+  clear: both;
+}
