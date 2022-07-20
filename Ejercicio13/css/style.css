@@ -1,0 +1,10 @@
+div{
+    background-color: red;
+    height: 100px;
+    width: 200px;
+    margin: 20px;
+    outline: 10px dotted  blue;    
+}
+:hover{
+    outline-color: aquamarine;
+}
